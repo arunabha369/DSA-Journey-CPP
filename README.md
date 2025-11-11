@@ -1,36 +1,78 @@
-# 🚀 DSA-Journey-CPP
+---
 
-Welcome to **DSA-Journey-CPP** – a comprehensive collection of Data Structures and Algorithms implemented in C++. This repository is aimed at helping you build a strong foundation in DSA for coding interviews, competitive programming, and academic learning.
+# 🚀 LeetCode-Journey
+
+Welcome to **LeetCode-Journey** – a structured, beginner-friendly, and continuously evolving collection of **LeetCode solutions** in multiple languages including **C++, JavaScript, SQL, and more**.
+This repository is designed to help you build strong problem-solving skills, understand patterns, and prepare confidently for **coding interviews**.
 
 ---
 
 ## 📌 What You’ll Find
 
-- ✅ Clean and well-commented C++ code
-- 📚 Structured topics with categorized folders
-- 🧠 Problem-solving techniques and optimizations
-- 💡 Practice problems with solutions
-- 📈 Continuous updates as the journey progresses
+* ✅ Clean, readable, and well-structured multi-language code
+* 📚 Categorized LeetCode problem sets (Easy → Medium → Hard)
+* 🧠 Problem-solving patterns and optimized approaches
+* 💡 Explanations + multiple approaches (Brute → Optimal)
+* 🏆 Interview-level practice problems
+* 🔁 Continuous updates as the journey progresses
 
 ---
 
-## 🗂️ Topics Covered
+## 🗂️ Topics / Patterns Covered
 
-- **Arrays & Strings**
-- **Linked Lists**
-- **Stacks & Queues**
-- **Recursion & Backtracking**
-- **Trees & Binary Trees**
-- **Binary Search Trees**
-- **Heaps & Priority Queues**
-- **Graphs (BFS, DFS, Dijkstra, etc.)**
-- **Sorting & Searching Algorithms**
-- **Dynamic Programming**
-- **Greedy Algorithms**
-- **Sliding Window & Two Pointers**
-- **Bit Manipulation**
+* **Arrays & Strings**
+* **HashMap / HashSet**
+* **Two Pointers**
+* **Sliding Window**
+* **Binary Search**
+* **Linked Lists**
+* **Stacks & Queues**
+* **Recursion / Backtracking**
+* **Trees & Binary Trees**
+* **Binary Search Trees (BST)**
+* **Heaps / Priority Queues**
+* **Graphs (BFS, DFS, Dijkstra)**
+* **Dynamic Programming**
+* **Greedy Algorithms**
+* **Intervals**
+* **Bit Manipulation**
+* **SQL LeetCode Queries (Easy–Hard)**
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure (Updated for LeetCode-Journey)
 
+```
+LeetCode-Journey/
+│
+├── Arrays/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+├── Strings/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+├── Two-Pointers/
+├── Sliding-Window/
+├── Linked-List/
+├── Trees/
+├── Graphs/
+├── Dynamic-Programming/
+├── Greedy/
+│
+├── SQL/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+├── JavaScript/
+│   └── solutions/  (JS-only versions)
+│
+├── C++/
+│   └── solutions/  (C++ versions)
+│
+└── README.md
+```
